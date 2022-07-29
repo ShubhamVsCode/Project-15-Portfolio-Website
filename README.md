@@ -4,9 +4,9 @@ By Shubham
 
 Here's the Live Deployed Website ![Project 15](https://img.shields.io/badge/Project-15-brightgreen)
 
-## [DEPLOYED WEBSITE LINK](https://ihosting.netlify.app/)
+## [DEPLOYED WEBSITE LINK](https://ineuronportfolio.netlify.app/)
 
-![Completed Website](./readmeImages/completedScreenshot.jpg)
+![Completed Website](./readmeImages/completedScreenshot.png)
 
 ## What I learned from this Project?
 
